@@ -12,7 +12,7 @@ This is a React-based quiz application built as part of the Google Developer Clu
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js
-- **State Management**: React's `useState` and `useEffect`
+- **State Management**: React's 
 - **Styling**: CSS
 
 
