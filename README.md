@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Quiz Application
 
@@ -56,3 +57,6 @@ This project is built with:
 - Tailwind CSS
 - Framer Motion
 
+=======
+# Quiz-pro
+>>>>>>> 40294e0849c6608f83144d28cfe7b6c365726089
